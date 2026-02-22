@@ -99,8 +99,8 @@ Follow these steps to deploy the NexusAI suite locally.
 
 **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/NexusAI.git
-cd NexusAI
+git clone https://github.com/SrinivasBathula9/Autonomous-Banking-Analytics-Multi-Agent-System..git
+cd Autonomous-Banking-Analytics-Multi-Agent-System.
 ```
 
 **2️⃣ Backend Environment Setup**
