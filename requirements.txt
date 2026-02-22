@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langgraph
+scikit-learn
+pandas
+matplotlib
+python-dotenv

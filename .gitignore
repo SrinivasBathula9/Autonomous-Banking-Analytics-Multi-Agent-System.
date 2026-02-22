@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# JavaScript/React
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Banking Platform Data
+banking_data.db
+reports/*.pdf
+charts/*.png
+test_output.txt
+db_count.txt
